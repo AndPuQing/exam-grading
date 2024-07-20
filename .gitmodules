@@ -1,3 +1,6 @@
 [submodule "exams"]
 	path = exams
 	url = git@github.com:AndPuQing/exams.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:AndPuQing/rustlings.git
